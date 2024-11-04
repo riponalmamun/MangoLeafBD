@@ -1,3 +1,5 @@
+# MangoLeafBD
+
 Project Title: MangoLeafBD Dataset Analysis and Classification Report
 
 Introduction
@@ -58,4 +60,3 @@ As far as the model performances are concerned, Random Forest classifier is more
 In terms of model comparison, it is suggested a Random Forest classifier is appropriate mango leaf disease classification. It helps as well as it helps in generalizing better hence it can be more consistent on the unseen data. Such robustness allows Random Forest to be a good candidate for real world mango leaf disease detection applications as the accuracy of disease identification can be an important factor to consider.
 
 
-# MangoLeafBD
